@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Carson 👋
+### I am currently a third-year student studying Business Analytics and Information Systems at the University of Iowa. 
 
 <!--
 **carsonkirby/carsonkirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
