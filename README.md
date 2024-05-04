@@ -2,7 +2,7 @@
 ### I am currently a third-year student studying Business Analytics and Information Systems at the University of Iowa. 
 
 # Contact Me:
-[![Linkedin badge](https://img.shields.io/static/v1?message=linkedin&logo=LinkedIn&labelColor=A6A9AA&color=0A66C2&logoColor=white&label=%20&style=for-the-badge)](www.linkedin.com/in/carson-kirby-63b18b200) 
+[![Linkedin badge](https://img.shields.io/static/v1?message=linkedin&logo=LinkedIn&labelColor=A6A9AA&color=0A66C2&logoColor=white&label=%20&style=for-the-badge)](https://www.linkedin.com/in/carson-kirby-63b18b200) 
 
 
 
