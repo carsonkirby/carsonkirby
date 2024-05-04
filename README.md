@@ -1,8 +1,8 @@
-### Hi, I'm Carson 👋
+## Hi, I'm Carson 👋
 ### I am currently a third-year student studying Business Analytics and Information Systems at the University of Iowa. 
 
 ## My Skills:
-![Python badge](https://img.shields.io/static/v1?message=python&logo=python&labelColor=5c5c5c&color=251A15&logoColor=white&label=%20&style=for-the-badge) ![SQL badge](https://img.shields.io/static/v1?message=sql&logo=sqlite&labelColor=5c5c5c&color=251A15&logoColor=white&label=%20&style=for-the-badge)
+![Python badge](https://img.shields.io/static/v1?message=python&logo=python&labelColor=A6A9AA&color=251A15&logoColor=white&label=%20&style=for-the-badge) ![SQL badge](https://img.shields.io/static/v1?message=sql&logo=sqlite&labelColor=A6A9AA&color=251A15&logoColor=white&label=%20&style=for-the-badge) ![SQL badge](https://img.shields.io/static/v1?message=microsoft_office&logo=microsoft&labelColor=A6A9AA&color=251A15&logoColor=white&label=%20&style=for-the-badge)
 
 <!--
 
